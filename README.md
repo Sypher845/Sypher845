@@ -15,7 +15,7 @@
    <img src="https://github.com/Sypher845/Sypher845/blob/main/java.png" width=45 height=45></img>
    <img src="https://github.com/Sypher845/Sypher845/blob/main/html-5.png" width=45 height=45></img>
    <img src="https://github.com/Sypher845/Sypher845/blob/main/autocad.png" width=65 height=45></img>
-   <img src="https://github.com/Sypher845/Sypher845/blob/main/android_studio.png" width=65 height=45></img>
+   <img src="https://github.com/Sypher845/Sypher845/blob/main/android_studio.png" width=65 height=50></img>
 
 ---
 
