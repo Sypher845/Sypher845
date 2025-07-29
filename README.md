@@ -73,14 +73,15 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-  <tr>
-    <td width="50%">
+<div align="center">
+<table width="100%">
+  <tr width="100%">
+    <td width="100%">
       <h3 align="center">CodeSathi</h3>
-      <div align="center">
+      <div align="center" width="100%">
         <a href="https://github.com/Sypher845/CodeSync-sypher" target="_blank">
-<img src="https://raw.githubusercontent.com/Sypher845/CodeSync-sypher/main/frontend/public/icon.png" width="150" alt="CodeSathi" />
-      </a>
+        <img src="https://raw.githubusercontent.com/Sypher845/CodeSync-sypher/main/frontend/public/icon.png" width="150" alt="CodeSathi" />
+        </a>
         <p>
           <a href="https://github.com/Sypher845/CodeSync-sypher" target="_blank"></a>
         </p>
@@ -89,6 +90,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
     </td>
   </tr>
 </table>
+  </div>
 <br>
 
 <div align="center">
